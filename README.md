@@ -1,1 +1,1 @@
-[Cam's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cam&api_domain=wakapi.coder.cam&bg_color=0A0C10&title_color=ff0d8a&icon_color=5D4FBA&text_color=ffffff&custom_title=Week%20Language%20Stats&layout=compact)
+![Cam's Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cam&api_domain=wakapi.coder.cam&bg_color=0A0C10&title_color=ff0d8a&icon_color=5D4FBA&text_color=ffffff&custom_title=Week%20Language%20Stats&layout=compact)
